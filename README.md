@@ -1,2 +1,3 @@
 # russian_opposition_outreach2022
-Covidtrip is a site that allows one to find a country’s Covid policy, along with other metrics, to help one plan for a trip accordingly. Derives information from multiple APIs and sources. Scraped and processed data from several courses, including but not limited to Google and John Hopkins. Successfully scheduled the scraper to update the site daily and built a corresponding content management system to manage the updates, data, and receive alerts. Update: No longer active due to discontinued financial support.
+A tool for crawling websites to collect data on Russian opposition communities, gather emails, and send bulk mail using email delivery API in 2022.
+Back when I naively thought Russians did not support Russia's invasion of Ukraine.
